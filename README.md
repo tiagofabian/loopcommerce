@@ -46,16 +46,16 @@ java -cp src LoopCommerce
 **Salir**
 - Finaliza el programa y cierra el sistema. 
 - El menú deja de repetirse.
-  **Ver Productos Disponibles**
+**Ver Productos Disponibles**
 - Muestra en pantalla todos los productos que existen en la tienda, incluyendo su nombre y precio.
 - Se recorren usando un for-each.
-  **Agregar productos al carrito**
+**Agregar productos al carrito**
 - Permite que el usuario seleccione cuántos productos quiere agregar y los elija uno por uno.
 - Los productos seleccionados se guardan en un arreglo llamado carrito.
-  **Ver subtotal actual**
+**Ver subtotal actual**
 - Calcula y muestra el total acumulado del carrito.
 - Extrae los precios de cada producto agregado y los suma en un subtotal.
-  **Realizar checkout**
+**Realizar checkout**
 - Simula el proceso de compra recorriendo 4 pasos (stock, datos, pago y envío) usando un for
 - muestra cada estado con un pequeño delay.
 
